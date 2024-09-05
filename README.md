@@ -1,6 +1,6 @@
 # kindle-dogear-copy
-ハイライトした文章をコピーするユーザスクリプトです。
-「Copy Highlights」: ハイライトした箇所を全てコピーする機能
+ハイライトした文章をコピーするユーザスクリプトです。\
+「Copy Highlights」: ハイライトした箇所を全てコピーする機能\
 「Copy Highlights 2linebreaks」: 上記にさらに改行する機能
 
 ## 対象サイト
